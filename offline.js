@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1624370753,
+	"version": 1624372225,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,7 @@
 		"images/bg2-sheet0.png",
 		"images/layervideo-sheet0.png",
 		"images/btnkembali-sheet0.png",
+		"images/controller_button-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
